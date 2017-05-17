@@ -1,6 +1,7 @@
 body{
-    font-family: "Arial";
-    background-color: deepskyblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FFDD00;    
+    background-color: #AADD55;
 }
 
 .clearfix{
